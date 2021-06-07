@@ -6,7 +6,7 @@
 U can call EREN to join voice sate channel in Discord. 
 
 # ✅ fix autoplay
-Autoplay is update from 0.0.5 to 0.1
+Autoplay will not play same songs
 
 # ✅ playing preview song
 The song preview screen allows you to view the version of the song that will be imported. This will either display the attachment as-is in a song viewer, or display the chord chart with the default styles that you've set in Command play.
