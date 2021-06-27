@@ -17,4 +17,4 @@ you can add multi filters in EREN
 # ✅ New Plugin
 you can request more song from a lot of Apps or websites 
 
-example: from soundCloud, Spotify `..`  
+example: from soundCloud, Spotify and [**700+ sites**](https://ytdl-org.github.io/youtube-dl/supportedsites.html) 
