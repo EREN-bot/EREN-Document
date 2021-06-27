@@ -1,4 +1,4 @@
-# EREN-V2(beta)
+# EREN-V2
 
 **THIS IS THE LIST NEW EREN FUNCITON BOT** <br>
 
